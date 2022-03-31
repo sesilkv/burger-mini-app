@@ -1,5 +1,5 @@
 import React from 'react'
-import style from './burger.module.css';
+import style from './burger.module.css'
 
 const Bun = (props) => {
     let bunClass; 
